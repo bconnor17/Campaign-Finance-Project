@@ -2,6 +2,7 @@
 #BDS 522
 #Final Project Analysis
 
+#Feel free to use the code below, but please cite me in any production.
 
 library(plyr)
 library(dplyr)
